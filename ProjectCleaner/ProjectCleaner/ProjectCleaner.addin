@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name> ProjectCleaner</Name>
+    <Assembly>ProjectCleaner.dll</Assembly>
+    <FullClassName>ProjectCleaner.Main</FullClassName>
+    <ClientId>35d46d96-6adc-48ce-b665-6e56ba7e163b</ClientId>
+    <VendorId>ARK MandE</VendorId>
+    <VendorDescription>info@arkme.co.uk</VendorDescription>
+  </AddIn>
+</RevitAddIns>

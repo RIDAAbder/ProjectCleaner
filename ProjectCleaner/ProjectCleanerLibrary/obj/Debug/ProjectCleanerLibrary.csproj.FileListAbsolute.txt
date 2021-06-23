@@ -1,0 +1,5 @@
+C:\Users\RIDA\Dropbox\My PC (DESKTOP-04RINRK)\Desktop\ProjectCleaner\ProjectCleanerLibrary\bin\Debug\ProjectCleanerLibrary.dll
+C:\Users\RIDA\Dropbox\My PC (DESKTOP-04RINRK)\Desktop\ProjectCleaner\ProjectCleanerLibrary\bin\Debug\ProjectCleanerLibrary.pdb
+C:\Users\RIDA\Dropbox\My PC (DESKTOP-04RINRK)\Desktop\ProjectCleaner\ProjectCleanerLibrary\obj\Debug\ProjectCleanerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\RIDA\Dropbox\My PC (DESKTOP-04RINRK)\Desktop\ProjectCleaner\ProjectCleanerLibrary\obj\Debug\ProjectCleanerLibrary.dll
+C:\Users\RIDA\Dropbox\My PC (DESKTOP-04RINRK)\Desktop\ProjectCleaner\ProjectCleanerLibrary\obj\Debug\ProjectCleanerLibrary.pdb
